@@ -1,0 +1,2 @@
+- Hello I am Juice Champion (Сок Чемпион)
+- I am learning Java (Intermediate) and Python (Beginner)
